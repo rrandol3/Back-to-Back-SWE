@@ -12,7 +12,7 @@ public class Arrays {
     }
 
     public static int[][] rotate(int[][] matrix) {
-
+        // adding comment
         return new int[1][1];
     }
 }
